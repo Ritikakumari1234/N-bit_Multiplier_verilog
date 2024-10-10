@@ -1,2 +1,2 @@
 # N-bit_Multiplier_verilog
-Developed an n-bit multiplier that uses the shift-and-add method for multiplying two numbers efficiently
+This project implements an n-bit multiplier for two numbers using the shift-and-add multiplication method. Upon completion, the result is converted to its binary-coded decimal (BCD) representation using the double dabble method. The output displays both the binary and BCD representations.
